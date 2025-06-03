@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Custom Snazzy Map + KML Pins</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    html, body, #map {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+
+  <!-- Google Maps JavaScript API 読み込み -->
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAZXv9GozgY4-cJuEg-rFJZX1fUJY-EEno"></script>
+
+  <script>
+    const map = new google.maps.Map(document.getElementById("map"), {
+      center: { lat: 51.5074, lng: -0.1278 },
+      zoom: 11,
+      disableDefaultUI: true,
+      styles: [
+        {
+            "featureType": "all",
+            "elementType": "labels",
+            "stylers": [ { "visibility": "off" } ]
+        },
+        {
+            "featureType": "administrative",
+            "elementType": "geometry",
+            "stylers": [ { "color": "#E3EDD9" } ]
+        },
+        {
+            "featureType": "administrative",
+            "elementType": "geometry.stroke",
+            "stylers": [ { "color": "#ffffff" }, { "weight": 1 } ]
+        },
+        {
+            "featureType": "administrative.country",
+            "elementType": "geometry",
+            "stylers": [ { "color": "#e3edd9" } ]
+        },
+        {
+            "featureType": "administrative.country",
+            "elementType": "geometry.stroke",
+            "stylers": [ { "color": "#ff0000" } ]
+        },
+        {
+            "featureType": "administrative.province",
+            "elementType": "geometry",
+            "stylers": [ { "color": "#e3edd9" } ]
+        },
+        {
+            "featureType": "administrative.province",
+            "elementType": "geometry.stroke",
+            "stylers": [ { "color": "#fafafa" } ]
+        },
+        {
+            "featureType": "administrative.locality",
+            "elementType": "geometry",
+            "stylers": [ { "color": "#e3edd9" } ]
+        },
+        {
+            "featureType": "administrative.locality",
+            "elementType": "geometry.stroke",
+            "stylers": [ { "color": "#fcfcfc" } ]
+        },
+        {
+            "featureType": "administrative.neighborhood",
+            "elementType": "geometry",
+            "stylers": [ { "color": "#e3edd9" } ]
+        },
+        {
+            "featureType": "administrative.neighborhood",
+            "elementType": "geometry.stroke",
+            "stylers": [ { "color": "#ff0000" } ]
+        },
+        {
+            "featureType": "administrative.land_parcel",
+            "elementType": "geometry",
+            "stylers": [ { "color": "#e3edd9" } ]
+        },
+        {
+            "featureType": "administrative.land_parcel",
+            "elementType": "geometry.stroke",
+            "stylers": [ { "color": "#fafafa" } ]
+        },
+        {
+            "featureType": "landscape",
+            "elementType": "geometry",
+            "stylers": [ { "color": "#E3EDD9" } ]
+        },
+        {
+            "featureType": "landscape",
+            "elementType": "geometry.stroke",
+            "stylers": [ { "color": "#ff0000" } ]
+        },
+        {
+            "featureType": "poi",
+            "elementType": "geometry",
+            "stylers": [ { "color": "#E3EDD9" } ]
+        },
+        {
+            "featureType": "poi.park",
+            "elementType": "geometry",
+            "stylers": [ { "color": "#429574" } ]
+        },
+        {
+            "featureType": "poi.park",
+            "elementType": "geometry.stroke",
+            "stylers": [ { "color": "#ff0000" } ]
+        },
+        {
+            "featureType": "road",
+            "elementType": "geometry",
+            "stylers": [ { "color": "#E3EDD9" } ]
+        },
+        {
+            "featureType": "road",
+            "elementType": "geometry.stroke",
+            "stylers": [
+                { "weight": "1.80" },
+                { "visibility": "on" },
+                { "saturation": "100" },
+                { "lightness": "0" },
+                { "gamma": "0.00" },
+                { "color": "#ffffff" }
+            ]
+        },
+        {
+            "featureType": "transit",
+            "elementType": "geometry",
+            "stylers": [ { "color": "#E3EDD9" } ]
+        },
+        {
+            "featureType": "transit",
+            "elementType": "geometry.stroke",
+            "stylers": [ { "color": "#fcfcfc" } ]
+        },
+        {
+            "featureType": "water",
+            "elementType": "geometry",
+            "stylers": [ { "color": "#6EB0D0" } ]
+        }
+      ]
+    });
+
+    const kmlLayer = new google.maps.KmlLayer({
+      url: 'https://niki0925.github.io/custom-map/pins.kml',
+      map: map,
+      preserveViewport: true
+    });
+  </script>
+</body>
+</html>
