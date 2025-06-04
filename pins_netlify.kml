@@ -4,14 +4,14 @@
     <Style id="grayIcon">
       <IconStyle>
         <Icon>
-          <href>https://niki0925.github.io/custom-map/dot_gray_transparent_800px.png</href>
+          <href>https://niki0925.github.io/custom-map/dot_gray_transparent_400px.png</href>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="orangeIcon">
       <IconStyle>
         <Icon>
-          <href>https://niki0925.github.io/custom-map/dot_orange_800px.png</href>
+          <href>https://niki0925.github.io/custom-map/dot_orange_400px.png</href>
         </Icon>
       </IconStyle>
     </Style>
