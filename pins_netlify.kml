@@ -15,427 +15,247 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.198627,51.585514,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.2271,51.769418,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.06223,51.386048,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.157859,51.397635,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.007423,51.560316,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>0.033929,51.529069,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.005312,51.512639,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.038394,51.516153,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>0.027916,51.500827,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.018828,51.576731,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.058343,51.528985,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.030441,51.523754,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.063439,51.562126,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.054708,51.565219,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.043184,51.548634,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.079545,51.513437,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.31333,51.571245,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.390721,51.559329,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.28745,51.622245,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>0.077887,51.539809,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>0.085113,51.542332,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>0.091167,51.602008,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>0.020128,51.600239,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.377535,51.405352,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.087585,51.546443,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.0905,51.5441,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.08273,51.543918,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.100351,51.536336,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.14278,51.607346,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.102052,51.617782,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.08273,51.543918,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.068267,51.582072,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.083729,51.57986,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.074951,51.561803,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.078662,51.568239,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.061111,51.576476,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.088789,51.628576,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.197769,51.599075,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.107788,51.551432,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.119415,51.559386,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.115885,51.562764,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.122609,51.544962,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.119149,51.583053,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.121738,51.574506,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.239905,51.540854,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.189308,51.580205,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.218135,51.567638,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.139271,51.549721,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.140398,51.559225,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.238774,51.601464,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>0.17839,51.509341,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>0.223621,51.598892,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>0.181756,51.555064,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.114085,51.506865,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>0.007,51.487436,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.434689,51.448807,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.387221,51.476336,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.328532,51.47225,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.309479,51.488298,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.324071,51.543407,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.217218,51.522362,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.220325,51.519199,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.207043,51.517171,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.274246,51.487956,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.281296,51.487188,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.221141,51.486183,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.337419,51.516097,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.335155,51.509618,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#grayIcon</styleUrl>
-      <Point>
-        <coordinates>-0.186272,51.498113,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.054708,51.565219,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
+   <Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.2508,51.5567,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.0137826,51.4871292,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>0.0325254,51.556772,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.001437,51.517592,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.008768,51.506164,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>0.007119,51.5505,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.0855696,51.547206,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.034681,51.573624,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.103248,51.537404,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.052046,51.561216,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.1252,51.6026,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.0662,51.5235,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>0.0483,51.5404,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>0.0188,51.5332,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>0.0303,51.5535,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.0432,51.5188,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>0.0357,51.5194,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.1471,51.5307,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.1365,51.5234,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.0332,51.5124,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>0.0072,51.5089,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>0.0038,51.4911,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>0.0131,51.4892,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.1375,51.5266,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.0901,51.5248,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.0929,51.5161,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.0966,51.5174,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.1199,51.5098,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.0455,51.5067,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.0461,51.5013,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.0172,51.4932,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.0191,51.4897,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.0316,51.4867,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.0368,51.4786,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.0214,51.4752,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.0406,51.4752,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.0655,51.4706,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.0463,51.4688,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#grayIcon</styleUrl>
+  <Point>
+    <coordinates>-0.0695,51.4634,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+<styleUrl>#orangeIcon</styleUrl>
+ <Point>
+<coordinates>-0.054708,51.565219,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
       <styleUrl>#orangeIcon</styleUrl>
       <Point>
         <coordinates>-0.31333,51.571245,0</coordinates>
