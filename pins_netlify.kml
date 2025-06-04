@@ -1,1 +1,25 @@
-
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="grayIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="orangeIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <styleUrl>#grayIcon</styleUrl>
+      <Point>
+        <coordinates>-0.198627,51.585514,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
